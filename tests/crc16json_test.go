@@ -3,7 +3,7 @@ package crc16json_test
 import (
 	"testing"
 
-	"github.com/mtrimarchi/crc16json/crc16json"
+	"github.com/mtrimarchi/crc16json"
 )
 
 func TestCRC16Calculate(t *testing.T) {
